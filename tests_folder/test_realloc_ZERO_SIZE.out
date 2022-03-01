@@ -1,0 +1,17 @@
+allocated 2048
+free 2048
+free 4096
+free 8192
+free 16384
+free 32768
+free 65536
+free 131072
+invalid size passed to malloc! must be at least 1 byte: Numerical result out of range
+allocated 2048
+free 2048
+free 4096
+free 8192
+free 16384
+free 32768
+free 65536
+free 131072
